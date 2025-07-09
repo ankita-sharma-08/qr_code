@@ -19,6 +19,9 @@ Python 3
    
 ## Run the script.
 Enter the UPI ID (e.g., yourname@bank).
+
 Enter the payee name.
+
 Enter the amount to pay.
+
 The QR code will be generated and saved as payment_qr.png.
