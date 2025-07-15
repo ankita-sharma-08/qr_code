@@ -1,5 +1,4 @@
-# qr_code
-# README for UPI QR Code Generator
+## QR Code Generator
 
 ## Overview
 This project is a simple UPI (Unified Payments Interface) QR Code generator that allows users to create a QR code for making payments. The generated QR code can be scanned using any UPI-enabled application to facilitate quick and easy transactions.
