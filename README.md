@@ -20,8 +20,8 @@ To set up the project, follow these steps:
 
 1. **Clone the repository** (if applicable):
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/ankita-sharma-08/qr_code.git
+   cd qr_code
    ```
 
 2. **Install required packages**:
